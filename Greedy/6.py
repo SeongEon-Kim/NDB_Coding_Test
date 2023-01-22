@@ -1,3 +1,5 @@
+
+
 # N, K공백을 기준으로 구분하여 입력 받기
 n, k = map(int, input().split())
 
